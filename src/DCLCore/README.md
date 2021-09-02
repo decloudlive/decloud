@@ -1,0 +1,17 @@
+﻿## Integrate plugins build tags
+  - INTEGRATE_BrokenDecloud_PLUGIN // test plugin
+  - INTEGRATE_ExamplePlugin_PLUGIN // test plugin
+  - INTEGRATE_WildRig_PLUGIN
+  - INTEGRATE_TTDecloud_PLUGIN
+  - INTEGRATE_TRex_PLUGIN
+  - INTEGRATE_TeamRedDecloud_PLUGIN
+  - INTEGRATE_NBDecloud_PLUGIN
+  - INTEGRATE_Phoenix_PLUGIN
+  - INTEGRATE_NanoDecloud_PLUGIN
+  - INTEGRATE_GDecloud_PLUGIN
+  - INTEGRATE_CryptoDredge_PLUGIN
+  - INTEGRATE_ZEnemy_PLUGIN
+  - INTEGRATE_LolDecloud_PLUGIN
+  - INTEGRATE_SRBDecloud_PLUGIN 
+  - INTEGRATE_XMRig_PLUGIN
+  - INTEGRATE_MiniZ_PLUGIN
