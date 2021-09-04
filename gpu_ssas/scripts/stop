@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+set -e
+
+SCRIPT_DIR="$(dirname "$0")"
+
+export ERL_EPMD_ADDRESS=127.0.0.1
+export NODE_NAME='decloud@127.0.0.1'
+
+"$SCRIPT_DIR/decloud" stop

@@ -1,0 +1,15 @@
+*.beam
+*.log
+*.dat
+.decloud.plt
+testlog
+apps/decloud/priv/tls
+apps/decloud/priv/*.so
+_build
+.rebar3
+apps/decloud/c_src/*.o
+data_test_master
+data_test_slave
+erl_crash.dump
+tags
+metrics
